@@ -1,0 +1,19 @@
+{
+  "name": "node-docker-content",
+  "version": "1.0.0",
+  "description": "Static content for a micro frontends application",
+  "author": "Maksood Mohiuddin",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=4001 serve"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.7",
+    "serve": "^11.3.2"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
+}
