@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "PORT=4001 serve"
+    "start": "PORT=4000 serve"
   },
   "devDependencies": {
     "prettier": "^1.13.7",
